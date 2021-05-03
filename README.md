@@ -2,7 +2,7 @@
 This project read data from a pdf file and read it loud.<br>
 
 Code is inspired from youtube video. <br>
-original author : https://github.com/ProgrammingHero1/audiobook
+original author : https://github.com/ProgrammingHero1/audiobook<br>
 <b>Problem Faced</b><br>
 I had some problem installing pip commands</br> like <b>pip install pypdf2</b> (to read data from pdf file)
 <b>pip install pyaudio</b> (c++ library interfacing with audio drivers)</br>
